@@ -5,8 +5,8 @@ The keylogger created runs in the background, whilst students complete there aca
 
 
 ## Visuals
-![](Help.png)
-![](Figure_1.png)
+![](/Image Assets/Help.png)
+![](/Image Assets/Figure_1.png)
 
 ## Installation
 ```bash
