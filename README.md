@@ -10,13 +10,12 @@ The keylogger created runs in the background, whilst students complete there aca
 ![](Figure_1.png)
 
 ## Installation
+```bash
 pip install Crypto.PublicKey
 pip install hashlib
 pip install pynput
 pip install datetime
 pip install Cryptography
-```bash
-
 ```
 ## Roadmap
 
@@ -24,4 +23,4 @@ Releases in the future will contain being able to recieve encrypt log files by e
 
 ## Author and acknowledgment
 
-17067738
+Tasbeel
