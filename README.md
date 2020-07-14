@@ -5,7 +5,6 @@ The keylogger created runs in the background, whilst students complete there aca
 
 
 ## Visuals
-![](41b23bfee02f0fad70768053e0d70fbf.png)
 ![](Help.png)
 ![](Figure_1.png)
 
