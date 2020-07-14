@@ -5,8 +5,8 @@ The keylogger created runs in the background, whilst students complete there aca
 
 
 ## Visuals
-![](/Image Assets/Help.png)
-![](/Image Assets/Figure_1.png)
+![](https://github.com/Tasbeel-A/Engagement-Keylogger/blob/master/Image%20Assets/Help.png)
+![](https://github.com/Tasbeel-A/Engagement-Keylogger/blob/master/Image%20Assets/Figure_1.png)
 
 ## Installation
 ```bash
